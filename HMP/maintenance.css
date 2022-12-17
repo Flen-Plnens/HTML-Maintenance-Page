@@ -1,0 +1,59 @@
+/* Background color */
+body {
+background: #1abc9c;
+}
+								
+/* Split line style */
+hr {
+border:none;
+border-top:1px dashed white;
+background: white;
+height: 0.5px;
+}
+								
+/* Still the style of split line */
+#hr2 {
+border:none;
+border-top:1px dashed white;
+background: white;
+height: 0.5px;
+}
+								
+#title {
+font-size: 0.9em;
+text-align: left;
+line-height: 0.01em;
+text-align: center; 
+color: white;
+}
+
+#dear {
+font-size: 1em;
+color: white;
+}
+
+#content{
+line-height: 1.2em;
+text-indent: 2em;
+color: white;
+}
+								
+#SaD {
+color: white;
+text-align: right;
+line-height: 0.9em;
+}
+								
+#copyright {
+color: white;
+font-size: 0.75em;
+text-align: center;
+position:absolute;
+width: 100%;
+bottom:0px;
+left:0px;
+}
+
+/* CSS written by Flen Plnens 
+https://github.com/Flen-Plnens/HTML-Maintenance-Page
+*/
