@@ -9,3 +9,5 @@
 This is a simple maintenance page written in HTML. You can change the related information (such as the object you want to tell, the date ...) into your own.
 ### What information do I need to change?
 After you download the file from "Releases", open it with a text editor and there are some notes in it, you can change some information according to the content of the notes.
+### Where should I download it?
+You can download it from "Releases".
