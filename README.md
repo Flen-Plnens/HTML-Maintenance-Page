@@ -10,4 +10,4 @@ This is a simple maintenance page written in HTML. You can change the related in
 ### What information do I need to change?
 After you download the file from "Releases", open it with a text editor and there are some notes in it, you can change some information according to the content of the notes.
 ### Where do I download it?
-You can download it from "[Releases](releases)".
+You can download it from "[Releases](https://github.com/Flen-Plnens/HTML-Maintenance-Page/releases)".
