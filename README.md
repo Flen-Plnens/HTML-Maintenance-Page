@@ -9,6 +9,7 @@
 ### Pictures
 ![IMG_20221218_150255.jpg](https://s2.loli.net/2022/12/19/dIeE6RSU1KqWDg2.jpg)
 ![IMG_20221218_161541.jpg](https://s2.loli.net/2022/12/19/fbHv6a7eKmk1oSR.jpg)
+↑(Do you know? This is a new style I wrote, called "New-HMP".)
 ### What is this?
 This is a simple maintenance page written in HTML. You can change the related information (such as the object you want to tell, the date ...) into your own.
 ### What information do I need to change?
