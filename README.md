@@ -1,3 +1,4 @@
+[简体中文](https://github.com/Flen-Plnens/HTML-Maintenance-Page/blob/main/zh_CN.md) | [English](https://github.com/Flen-Plnens/HTML-Maintenance-Page)
 ### Catalogs:
 - [You can follow me from the following platforms](#you-can-follow-me-from-the-following-platforms)
 - [What is this?](#what-is-this)
