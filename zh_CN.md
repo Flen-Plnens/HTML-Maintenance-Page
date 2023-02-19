@@ -1,3 +1,4 @@
+[简体中文](https://github.com/Flen-Plnens/HTML-Maintenance-Page/blob/main/zh_CN.md) | [English](https://github.com/Flen-Plnens/HTML-Maintenance-Page)
 ### 目录：
 - [你可以通过以下平台关注我](#you-can-follow-me-from-the-following-platforms)
 - [这是什么？](#what-is-this)
